@@ -1,4 +1,4 @@
 <!-- Football pitch condition classifier  -->
-## About The Project
+## Football pitch condition classifier
 
 ![Screenshot](Interface.png)
