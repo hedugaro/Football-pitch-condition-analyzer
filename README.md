@@ -1,2 +1,2 @@
 Football pitch condition classifier 
-![plot](./interface.png)
+![Screenshot](interface.png)
